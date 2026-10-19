@@ -1,48 +1,48 @@
-# 风格 DNA
+# Style DNA
 
-## 一句话
+## In one sentence
 
-纯白、极简、手绘、留白、克制、怪诞、产品草图感、中文手写感、结构清楚但不说明书。
+Pure white, minimal, hand-drawn, generous whitespace, restrained, quirky, product-sketch feel, handwritten annotation vibe, structure clear but never instructional.
 
-像一个长期做 AI、产品、设计、开发工具的人，在白纸上随手画出来的一张解释草图。
+Like an explanatory sketch casually drawn on a blank sheet by someone who has long worked in AI, product, design, and dev tools.
 
-## 必须
+## Musts
 
-- 16:9 横版正文配图。
-- 纯白背景：不要米色、暖灰、纸张纹理、渐变、阴影、噪点、复古纸感。
-- 黑色手绘线稿为主：细线、轻微抖动、不机械、不矢量、不厚重描边。
-- 大量留白：主体占画面约 40%-60%，至少 35% 空白，最好有一整块安静区域。
-- 少量中文手写批注：最多 5-8 处，每处尽量 2-8 个字。
-- 一张图只讲一个核心动作、结构、状态或隐喻。
-- 结构要自然表达，不要在图上写结构类型名称。
+- 16:9 landscape inline illustration.
+- Pure white background: no beige, warm gray, paper texture, gradients, shadows, noise, or vintage-paper feel.
+- Primarily black hand-drawn line art: thin lines, slight wobble, not mechanical, not vector-perfect, no heavy outlines.
+- Lots of whitespace: the subject takes up roughly 40%-60% of the canvas, at least 35% stays blank, ideally with one whole quiet area.
+- A few short handwritten annotations: at most 5-8 per image, each ideally 2-8 characters/words.
+- One image tells only one core action, structure, state, or metaphor.
+- Express the structure naturally — never write the structure type's name on the image.
 
-## 颜色
+## Colors
 
-- 黑色：主体线稿、角色、框线、结构、主要文字、主体物件。
-- 红色：重点批注、问题、情绪点、关键提醒、结果。
-- 橙色：主流程、路径、箭头、自动化流向、从 A 到 B 的移动关系。
-- 蓝色：补充说明、脑内状态、系统状态、第二层解释、AI/assistant/自动化提示。
+- Black: main line art, characters, frames, structures, primary text, main objects.
+- Red: key annotations, problems, emotional beats, important warnings, results.
+- Orange: main flow, paths, arrows, automation direction, A-to-B movement.
+- Blue: supplementary notes, mental states, system states, second-layer explanations, AI/assistant/automation hints.
 
-蓝色不是每张都必须用。颜色要克制，宁可少不要多。
+Blue is not required in every image. Keep colors restrained — fewer is better.
 
-## 绝对不要
+## Absolutely not
 
-- 不要商业插画。
-- 不要 PPT 信息图。
-- 不要正式流程图。
-- 不要课程课件。
-- 不要可爱卡通海报。
-- 不要儿童插画。
-- 不要复杂架构图。
-- 不要精致扁平插画。
-- 不要科技感 UI。
-- 不要真实 App 截图。
-- 不要复杂背景、渐变、阴影、纹理。
-- 不要把每个节点都解释清楚。
-- 不要左上角写“Workflow 流程图 / 系统架构图 / 常见坑 / 路线图”等类型标题。
+- No commercial illustration.
+- No PPT infographics.
+- No formal flowcharts.
+- No course slides.
+- No cutesy cartoon posters.
+- No children's book illustration.
+- No complex architecture diagrams.
+- No polished flat illustration.
+- No tech-style UI.
+- No real app screenshots.
+- No busy backgrounds, gradients, shadows, or textures.
+- Don't explain every single node.
+- No type-title labels in the top-left corner such as "Workflow / System Architecture / Common Pitfalls / Roadmap".
 
-## 审美方向
+## Aesthetic direction
 
-要怪诞、创意、有意思、简洁清爽、天马行空。
+Aim for quirky, creative, fun, clean and airy, wildly imaginative.
 
-不要可爱、幼稚、很复杂、死板。
+Avoid cute, childish, overly complex, or rigid.
